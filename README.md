@@ -1,16 +1,14 @@
 # status_saver
 
-A new Flutter project.
+A whatsApp status saver/downloader with flutter.
 
-## Getting Started
+## Requirement
 
-This project is a starting point for a Flutter application.
+- Any operating System (i.e MacOS, Linux, Windows)
+- Any IDE with running Flutter SDK installed (i.e IntelliJ, Android Studio, VSCode etc)
+- A little knowledge of Dart and flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Download the android app to try out status saver.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Plugins
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
